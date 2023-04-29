@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Individual Files to ignore - e.g. Logs
+*.log
+*.code-workspace
+*.sh
+*.csv
+
+# Dirs to ignore
+old/
+.vscode/
+
+# Distribution / packaging - built with Poetry. Available on PyPi.
+dist/
